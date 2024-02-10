@@ -10,7 +10,7 @@ https://www.freecodecamp.org/news/learn-flexbox-build-5-layouts/#youtube
 
 To get started, clone this project by using this command: 
 ```shell
-git@github.com:career-ready-io/learn-css-flexbox.git
+git clone git@github.com:career-ready-io/learn-css-flexbox.git
 ```
 
 Each project has its own folder. Start with `level-one` and follow the Figma to create each different layout.
